@@ -1,2 +1,0 @@
-# sasipractice
-Practice purpose
